@@ -4,7 +4,7 @@
 
 Minimal yet working prototype. Feel free to propose features and contribute PRs!
 
-**Visit the playground here: <https://linqlover.github.io/simple-openai-tts-playground>**
+**Visit the playground here: <https://trickytoad.github.io/TTS-2/>**
 
 ## Current Features
 
